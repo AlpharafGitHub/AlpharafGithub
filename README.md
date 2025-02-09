@@ -8,7 +8,7 @@ Passionate about **technology, leadership, and innovation**, I specialize in int
 
 ## 🔥 About Me
 - 🎓 Computer Engineering Student @ Technological Institute of the Philippines
-- 🚀 Aspiring **Data Scientist & AI Engineer**
+- 🚀 Aspiring **Data Scientist & Analyst**
 - 🏆 2nd Place @ ISEAC Hackathon 2023 | Top 12 @ Xinyx Unlocked 2024 Innovation Challenge
 - 🎨 Hobbies: Editing photos/videos, cooking, traveling
 
