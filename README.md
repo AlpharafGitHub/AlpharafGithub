@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Rafael Eugenio! 👋
 
-<!--
-**AlpharafGitHub/AlpharafGithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Engineering | Intelligent Systems | Data Science Enthusiast
 
-Here are some ideas to get you started:
+Passionate about **technology, leadership, and innovation**, I specialize in intelligent systems, machine learning, and computer vision. I'm actively involved in student governance, research, and engineering projects that aim to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 About Me
+- 🎓 Computer Engineering Student @ Technological Institute of the Philippines
+- 🚀 Aspiring **Data Scientist & AI Engineer**
+- 🏆 2nd Place @ ISEAC Hackathon 2023 | Top 12 @ Xinyx Unlocked 2024 Innovation Challenge
+- 🎨 Hobbies: Editing photos/videos, cooking, traveling
+
+---
+
+## 📂 Projects
+- **[Proctoria](#)** – AI-powered online proctoring system
+- **[Community Solar Sharing](#)** – Blockchain-based solar energy solution
+- **[E-Waste Classification System](#)** – Deep learning for sustainable recycling
+
+---
+
+## ⚡ Skills
+- 🔹 Machine Learning & Deep Learning (Python, TensorFlow, PyTorch)
+- 🔹 Computer Vision (OpenCV, YOLO)
+- 🔹 Web Development (JavaScript, React, Node.js)
+- 🔹 Embedded Systems & IoT (Arduino, Raspberry Pi)
+- 🔹 Cloud & Networking (AWS, CCNA, CCpE)
+
+---
+
+## 📫 Connect with Me
+- 📧 Email: rafael.eugenio.careers@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/rafael-eugenio)
+- 🏗️ [Portfolio Website](#)
+
+---
+
+💡 *"Technology is not just about innovation, but about making an impact."* 🚀
