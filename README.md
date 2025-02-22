@@ -16,7 +16,7 @@ Passionate about **technology, leadership, and innovation**, I specialize in int
 
 ## 📂 Projects
 - **[Proctoria](#)** – AI-powered online proctoring system
-- **[Community Solar Sharing](#)** – Blockchain-based solar energy solution
+- **[Community Solar Sharing](#)** – Solar Sharing Initiative Solution
 - **[E-Waste Classification System](#)** – Deep learning for sustainable recycling
 
 ---
