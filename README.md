@@ -33,7 +33,7 @@ Passionate about **technology, leadership, and innovation**, I specialize in int
 ## 📫 Connect with Me
 - 📧 Email: rafael.eugenio.careers@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/rafael-eugenio)
-- 🏗️ [Portfolio Website](#)
+- 🏗️ [Portfolio Website](https://bit.ly/rafaeleugenio)
 
 ---
 
